@@ -1,0 +1,26 @@
+h5{
+    text-align: right;
+    color: darkblue;
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h6{
+    margin-top: -2rem;
+    text-align: right;
+    color: darkorange;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.meme-dabba {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 450px;
+    height: auto;
+    margin-bottom: 4rem;
+}
